@@ -1,0 +1,3 @@
+Based on this implementation plan generate a set of LLM prompts that can be provided to a code gen tool (e.g. Cursor) for implementation. Each work item in the implementation plan should have its own set of LLM prompts. Each prompt should have a clear set of well defined deliverables with each prompt building upon the previous with the goal of having the work item fully implemented by the last prompt.
+
+Make sure and separate each prompt section. Use markdown. Each prompt should be tagged as text using code tags. The goal is to output prompts, but context, etc is important as well.
