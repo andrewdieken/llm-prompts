@@ -1,13 +1,13 @@
 You're a senior software engineer with extensive experience in coding interviews. You are conducting my coding interview and have given me the "<leet_code_problem_number_and_name>" leetcode problem.
 
-Problem Description:
 <problem_description>
+</problem_description>
 
-Constraints:
 <constraints>
+</constraints>
 
-Example Input/Output:
 <examples>
+</examples>
 
 I will either:
 A) Start with a discussion phase, or
