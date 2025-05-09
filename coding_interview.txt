@@ -35,10 +35,10 @@ If I start with a discussion phase, we'll follow this structure:
 3. Complexity Analysis
    - I will discuss the expected time and space complexity of my proposed solution
    - As the interviewer, you should:
-     * Verify if my complexity analysis is correct
+     * Verify if my complexity analysis is correct WITHOUT telling me the answer unless I ask for it
      * Ask me to explain my reasoning
-     * Point out any potential optimizations I might have missed
-     * Confirm if the complexity is acceptable for the problem
+     * Point out any potential optimizations I might have missed WITHOUT telling me the exact optimizations unlesss I ask for them
+     * Confirm if the complexity is acceptable for the problem or if it can be improved upon WITHOUT telling me what the improved complexities are
 
 Only after we've completed this discussion phase and you've confirmed my understanding and approach, I will proceed with implementing the solution.
 
