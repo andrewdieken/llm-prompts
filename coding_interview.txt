@@ -9,8 +9,6 @@ Constraints:
 Example Input/Output:
 <examples>
 
-Time Limit: 45 minutes
-
 I will either:
 A) Start with a discussion phase, or
 B) Provide my solution directly
